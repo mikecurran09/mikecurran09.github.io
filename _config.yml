@@ -2,18 +2,14 @@ title: Michael Curran # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Data Analyst with Diverse Expertise <br><br>
-  Experienced professional transitioning from marketing and project management to data analytics. My background offers a unique blend of skills: <br>
-  - Extensive marketing and project management experience in dynamic environments <br>
-  - Strong problem-solving and stakeholder collaboration abilities <br>
-  - Recently acquired data visualization and statistical modeling expertise <br>
+  Transitioning from marketing and project management to data analytics, I offer: <br>
+  - Extensive experience in dynamic business environments <br>
+  - Strong problem-solving and stakeholder collaboration skills <br>
+  - Data visualization and statistical modeling expertise <br>
   - Proven track record of developing customer-aligned strategies <br><br>
-  My journey: <br>
-  - Transitioned from marketing and project management to data analytics <br>
-  - Developed technical skills to complement my business acumen <br>
-  - Former Naval Officer, bringing leadership and disciplined approach to projects <br><br>
-  I excel at creating powerful visualizations that translate complex data into actionable insights. Seeking a data analyst role where I can leverage my diverse skill set to drive impactful business decisions. <br><br>
-  Outside work, I enjoy paddle boarding, reading, and outdoor adventures with my dog. <br><br>
-  Ready to apply my analytical skills and business experience to tackle new challenges and deliver value through data.  <br><br>
+  
+  Former Naval Officer bringing leadership and discipline to projects. <br>
+  Seeking a data analyst role to leverage my diverse skill set and drive impactful business decisions through data.  <br><br>
   <a href="https://www.linkedin.com/in/mikecurran09">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
