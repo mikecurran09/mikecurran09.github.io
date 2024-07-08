@@ -4,9 +4,11 @@
 
 ### Learn About My Projects
 
-#### [Internal Blog Post Project](/sample_project)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-Tolulope is the best
+#### [World Happiness Report, 2022](/sample_project)
+<img src="images/Happy Cover.jpg?raw=true"/>
+*Open Source Analysis*
+
+The World Happiness Report is a landmark survey of the state of global happiness that ranks 150 countries by how happy their citizens perceive themselves to be. This study dives into the main theme of the report and the relationship between the six pillars of reported happiness.
 
 ---
 #### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
