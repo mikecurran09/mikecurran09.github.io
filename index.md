@@ -14,10 +14,9 @@ Python analysis of the 2022 World Happiness Report, with Tableau presentation.
 Python analysis of the Instacart database offers insights into consumer purchase behavior using real and simulated data from the Instacart app.
 
 ---
-#### [External Link Project](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
-[<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
-My final write up for Avery Smith's 21 Days To Data project covering New York City crime data. 
-
+#### [Rockbuster Database Report](/rockbuster_project)
+<img src="images/Rockbuster Cover.jpg?raw=true"/>
+SQL analysis of the PostgreSQL Sample Database for Rockbuster, an imaginary DVD rental business, gathers insights about their portfolio and client base to better guide their business plan.
 
 ---
 #### [Education Project](https://www.linkedin.com/pulse/massachusetts-education-analysis-samantha-paul/)
