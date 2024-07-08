@@ -9,9 +9,9 @@
 Python analysis of the 2022 World Happiness Report, with Tableau presentation.
 
 ---
-#### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
-<img src="images/21 Days To Data Challenge.png?raw=true"/>
-For this project, I explored what a good analytics PowerPoint presentation should entail. It talks about main talking points, how to tie data to the business value, and much more. 
+#### [Instacart Strategy Report](/instacart_project)
+<img src="images/Instacart Cover.jpg?raw=true"/>
+Python analysis of the Instacart database offers insights into consumer purchase behavior using real and simulated data from the Instacart app.
 
 ---
 #### [External Link Project](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
