@@ -19,22 +19,14 @@ Python analysis of the Instacart database offers insights into consumer purchase
 SQL analysis of the PostgreSQL Sample Database for Rockbuster, an imaginary DVD rental business, gathers insights about their portfolio and client base to better guide their business plan.
 
 ---
-#### [Education Project](https://www.linkedin.com/pulse/massachusetts-education-analysis-samantha-paul/)
-[<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
-In this case study from Data Analytics Accelerator, I was prompted to analyze the State of Massachusetts education data. The main focuses were:
-What schools are struggling the most?
-How does class size affect college admission?
-What are the top math schools in the state? 
+#### [Flu Season Analysis](/flu_project)
+<img src="images/Flu Cover.jpg?raw=true"/>
+Excel analysis of the CDC Database and Tableau visualization for a fictitious medical staffing company aims to help them prepare for flu season when demand for personnel is high.
 
 ---
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+#### [GameCo, Marketing Plan](/game_project)
+<img src="images/GameCo Cover.jpg?raw=true"/>
+Excel analysis of the GaMECO database for a fictional video game firm, GameCo, to guide the creation of new games.
 
 ---
 
