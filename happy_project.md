@@ -1,6 +1,6 @@
-## This can be a template for an internal prject
+## World Happiness Report, 2022
 
-**Project description:** You can use this template to create projects in the future. Simply duplicate the page and change the text and images. 
+**Project description:** The World Happiness Report is a landmark survey of the state of global happiness that ranks 150 countries by how happy their citizens perceive themselves to be. This study dives into the main theme of the report and the relationship between the six pillars of reported happiness. 
 
 Be sure to follow *The Interesting Project Template* as shown in [**The Data Science Project Studio**](https://www.datacareerjumpstart.com/products/the-data-science-project-studio/categories/2150357707/posts/2158441592). 
 
