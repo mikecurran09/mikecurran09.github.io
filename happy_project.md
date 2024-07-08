@@ -11,4 +11,4 @@
 - Jupyter Notebook
 - Tableau
 
-<img src="images/Happy Cover.jpg?raw=true"/>
+<img src="images/happy_full.jpg?raw=true"/>
