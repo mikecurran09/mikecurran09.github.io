@@ -6,14 +6,10 @@
 
 [**GitHub Repository**](https://github.com/mikecurran09/World-Happiness-Report-2022)
 
-### 1. You can have sections and text.
+### 1. Main Tools:
 
-Just like this. And you can even add internal coding blocks
+- Python
+- Jupyter Notebook
+- Tableau
 
-```python
-print('this is the python code I used to solve this problem')
-```
-
-### 2. You can add any images you'd like. 
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Happy Cover.jpg?raw=true"/>
