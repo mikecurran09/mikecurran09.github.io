@@ -4,7 +4,7 @@
 
 ### Learn About My Projects
 
-#### [World Happiness Report, 2022](/sample_project)
+#### [World Happiness Report, 2022](/happy_project)
 <img src="images/Happy Cover.jpg?raw=true"/>
 Python analysis of the 2022 World Happiness Report, with Tableau presentation.
 
