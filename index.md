@@ -6,9 +6,7 @@
 
 #### [World Happiness Report, 2022](/sample_project)
 <img src="images/Happy Cover.jpg?raw=true"/>
-*Open Source Analysis*
-
-The World Happiness Report is a landmark survey of the state of global happiness that ranks 150 countries by how happy their citizens perceive themselves to be. This study dives into the main theme of the report and the relationship between the six pillars of reported happiness.
+Python analysis of the 2022 World Happiness Report, with Tableau presentation.
 
 ---
 #### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
